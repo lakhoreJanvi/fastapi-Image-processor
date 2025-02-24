@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+celery
+redis
+pillow
+psycopg2
+pandas
+python-multipart
+sqlalchemy
+alembic
